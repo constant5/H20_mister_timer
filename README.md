@@ -13,8 +13,7 @@ Credit to GTT (https://community.blynk.cc/u/gtt/summary) for most of the code fo
 
 I used the products from Amazon shown below plus a 12V power supply, miscellaneous wire, and connectors I had lying around. 
 
-
-
+| []() | []() ]
 | --- | --- |
 |[Misting System](https://www.amazon.com/gp/product/B08611N214/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)| ![picture](https://github.com/constant5/H20_mister_timer/blob/master/img/misting_system.jpg)|
 |[Solenoid Valve](https://www.amazon.com/gp/product/B016MP1HX0/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) | ![picture](https://github.com/constant5/H20_mister_timer/blob/master/img/Solenoid.jpg)|
