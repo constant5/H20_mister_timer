@@ -7,7 +7,7 @@ The interface is designed to work with the Blynk (https://blynk.io/) app so you 
 
 You can flash the code with the Arduino IDE (https://www.arduino.cc/en/main/software) with the appropriate ESP8266 board manager package installed.   You will need a USB to serial UART programmer, an Arduino, or some other MCU to program the Shelly 1 Relay Module.  The code includes the Arduino Over-the-Air (OTA) library to make it easier to modify the code on the Shelly after the first upload over serial. I has some trouble getting the OTA settings right but the setup shown below worked. 
 
-![picture](img/board_settings.png) 
+![picture](https://github.com/constant5/H20_mister_timer/blob/master/img/board_settings.png) 
 
 Credit to GTT (https://community.blynk.cc/u/gtt/summary) for most of the code for the nested timers. 
 
@@ -16,9 +16,9 @@ I used the products shown below plus a 12V power supply, miscellaneous wire, and
 
 <!-- -->    | <!-- --> 
 ------------ | -------------
-[Misting System](https://www.amazon.com/gp/product/B08611N214/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)| ![picture](img/misting_system.jpg)
-[Solenoid Valve](https://www.amazon.com/gp/product/B016MP1HX0/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) | ![picture](img/Shelly1.jpg)
-[Shelly 1 Relay](https://www.amazon.com/gp/product/B07G33LNDY/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | ![picture](img/Solenoid.jpg)
+[Misting System](https://www.amazon.com/gp/product/B08611N214/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)| ![picture](https://github.com/constant5/H20_mister_timer/blob/master/img/misting_system.jpg)
+[Solenoid Valve](https://www.amazon.com/gp/product/B016MP1HX0/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) | ![picture](https://github.com/constant5/H20_mister_timer/blob/master/img/Solenoid.jpg)
+[Shelly 1 Relay](https://www.amazon.com/gp/product/B07G33LNDY/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) | ![picture](https://github.com/constant5/H20_mister_timer/blob/master/img/Shelly1.jpg)
 
 
 
