@@ -4,9 +4,9 @@
 #include <WiFiUdp.h>
 #include <ArduinoOTA.h>
 
-char auth[] = "0F0Mm0xLezvIcXJUseP_9P8PxXt6GeI1";
-char ssid[] = "OK Computer";
-char pass[] = "OnAnyGivenSunday";
+char auth[] = "*****";
+char ssid[] = "****";
+char pass[] = "******";
 char server[] = "blynk-cloud.com";  // Cloud Server address
 int port = 8080;  //  MCU Hardware Device port
 
